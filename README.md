@@ -8,17 +8,15 @@ This project was created to strengthen fundamental JavaScript concepts such as a
 
 ## 📸 Screenshot
 
-
-
-```md
-![To-Do List Screenshot](./screenshot.png)
-```
+<p float="left">
+  <img src="./screenshot.png" width="500" />
+</p>
 
 ---
 
 ## 🚀 Live Demo
 
-live demo --> 
+live demo --> https://hayatabdulfetah.github.io/javascript-todo-list/
 
 ---
 
